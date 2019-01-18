@@ -1,4 +1,4 @@
 package com.example.a28463.myapplication;
 
-public class Bean {
+public class qwer {
 }
